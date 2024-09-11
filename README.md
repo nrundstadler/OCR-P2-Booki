@@ -5,7 +5,7 @@ réservation de vacances nommée "Booki".
 
 ## Solution proposée
 
-** Lien : https://nrundstadler.github.io/OCR-P2-Booki/**
+**Lien : https://nrundstadler.github.io/OCR-P2-Booki/**
 
 ### Compétences cibles du projet
 
