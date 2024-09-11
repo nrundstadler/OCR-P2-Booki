@@ -7,12 +7,12 @@ réservation de vacances nommée "Booki".
 
 **Lien : https://nrundstadler.github.io/OCR-P2-Booki/**
 
-### Compétences cibles du projet
+## Compétences cibles du projet
 
 - Intégrer du contenu conformément à une maquette
 - Implémenter une interface responsive
 
-### Quelques unes des spécifications techniques
+## Quelques unes des spécifications techniques
 
 - Trois maquettes ont été réalisées : desktop, tablette et mobile.
 - Breakpoints : >1024 px pour les écrans d’ordinateurs, >=768 px pour les tablettes et tout ce qui est en dessous de 768 pour les téléphones portables.
